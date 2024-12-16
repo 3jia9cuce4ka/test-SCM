@@ -4,7 +4,7 @@ pipeline {
         stage {
             steps {
                script {
-                sh "ls -l"555
+                sh "ls -l"5555
                } 
             }
         }
